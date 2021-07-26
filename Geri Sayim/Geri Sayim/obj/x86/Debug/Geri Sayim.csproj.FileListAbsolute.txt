@@ -1,0 +1,8 @@
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\bin\Debug\Geri Sayim.exe
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\bin\Debug\Geri Sayim.pdb
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\Geri Sayim.csproj.GenerateResource.Cache
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\Geri Sayim.exe
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\Geri Sayim.pdb
+C:\Users\egiti\OneDrive\Masaüstü\Sayaç Kodu\Geri Sayim\Geri Sayim\obj\x86\Debug\Geri Sayim.csprojResolveAssemblyReference.cache
